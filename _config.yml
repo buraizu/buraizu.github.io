@@ -1,11 +1,11 @@
 # Site settings
 author: Bryce Eadie
-title: 
+title: WaTrailRuns CLI Gem Project
 header-img: img/home-bg.png
 email: bryce.eadie@gmail.com
 copyright_name: Bryce Eadie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Beginning to End
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  buraizu
